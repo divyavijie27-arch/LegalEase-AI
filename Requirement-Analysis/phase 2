@@ -1,0 +1,27 @@
+# Phase 2: Requirement Analysis
+
+## Functional Requirements
+1. User selects a document type.
+2. User enters party details.
+3. User enters additional clauses.
+4. AI generates a document draft.
+5. User can copy or download the result.
+
+## Software Requirements
+- Python
+- Streamlit
+- Google Gemini API
+- HTML, CSS and JavaScript
+- Web browser
+
+## Hardware Requirements
+- Computer or laptop
+- Internet connection
+
+## Security Requirements
+- Protect API keys.
+- Avoid exposing confidential user information.
+- Display a legal review disclaimer.
+
+## Output
+A generated legal document draft.
